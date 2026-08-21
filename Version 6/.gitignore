@@ -1,0 +1,23 @@
+# Training data — keep local only
+V4 Usage Training.csv
+
+# Local virtual environments
+.venv/
+.venv312/
+
+# Forecast outputs
+forecast_results/
+version_6_mpl_commitments_results.csv
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.Python
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
