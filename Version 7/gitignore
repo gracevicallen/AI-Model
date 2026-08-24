@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local data files
+*.csv
+*.xlsx
+*.xls
+
+# Model / forecast outputs
+forecast_results/
+results/
+*.parquet
+*.pkl
+*.joblib
+
+# Environment / credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Logs / temp
+*.log
+*.tmp
+~$*
